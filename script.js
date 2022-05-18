@@ -34,7 +34,6 @@ btnclose.addEventListener('click', closeModal);
 overlay.addEventListener('click', closeModal);
 
 
-
 //Close modal using specfic key press
 
 document.addEventListener('keydown', function(e){
